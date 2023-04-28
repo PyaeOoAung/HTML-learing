@@ -1,0 +1,1 @@
+alert("we are brither myanmar!")
